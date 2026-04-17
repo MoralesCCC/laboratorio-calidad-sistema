@@ -1,1 +1,0 @@
-# laboratorio-calidad-sistema
